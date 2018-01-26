@@ -9,3 +9,6 @@ https://drive.google.com/file/d/1UyYkDq65kH_rj1inhvhYfeGnHNtWQ7Ey/view?usp=shari
 Counter Clockwise Tracking：https://youtu.be/HSV9cUEknDk  
 Clockwise Tracking：https://youtu.be/4KHfDQlubIA  
 <img src="https://raw.githubusercontent.com/shannon112/nxc_LegoRobot_LineFollower/master/image02.png" width="500">
+
+### Team member
+shannon112, magonmonkey, 謝孟儒, 李宜修, 葉柏毅
